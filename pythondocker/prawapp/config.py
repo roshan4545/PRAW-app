@@ -1,4 +1,4 @@
-#Enter your own username,pass
+#Enter your own username,password
 
 
 username = ""
